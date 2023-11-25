@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { Button, Form, Nav, Tab } from "react-bootstrap";
-import styles from "./chatbot.module.scss";
+import styles from "./chatbot.module.css";
 import React from "react";
 
 interface ChatBotProps {
