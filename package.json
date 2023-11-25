@@ -1,6 +1,6 @@
 {
   "name": "chat-lib-poc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a component lib poc",
   "scripts": {
     "rollup-build-lib": "rollup -c"
